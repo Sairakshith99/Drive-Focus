@@ -24,6 +24,6 @@ Drive Focus is a project developing a Driver Attention Monitoring System (DAMS)
 
 # Code Structure
 
-# DEMO
+# Demo
 
 # References
