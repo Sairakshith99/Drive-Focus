@@ -2,12 +2,12 @@
 ![nwmcjnsz](https://user-images.githubusercontent.com/116390489/231007502-d6b6c26d-46c9-4469-95f9-52c7d04dec26.png)
 
 # Project Contributors
-NAME	GUID	ROLE
-Johanna Benedict	2787431J	
-Sai Rakshith Arun Kumar	2820843A	
-Lina Chen	2811816C	
-Yulin Xiao	2743901X	
-![image](https://user-images.githubusercontent.com/116390489/231009059-8d6fb2e0-5519-499f-a3c3-bc06a8e1003a.png)
+| NAME	| GUID |	ROLE |
+| ------------- | ------------- | ------------- |
+| Johanna Benedict |	2787431J	|
+| Sai Rakshith Arun Kumar	| 2820843A |	
+| Lina Chen |	2811816C |
+| Yulin Xiao | 2743901X |
 
 # Project Description 
 
