@@ -18,8 +18,8 @@ int main()
 
     CascadeClassifier faceCascade;
     CascadeClassifier eyeCascade;
-    faceCascade.load("haarcascade_frontalface_alt.xml");
-    eyeCascade.load("haarcascade_eye.xml");
+    faceCascade.load("haar-cascade-files-master/haarcascade_frontalface_alt.xml");
+    eyeCascade.load("haar-cascade-files-master/haarcascade_eye.xml");
     int minRadius = 38;
 
     while (true)
