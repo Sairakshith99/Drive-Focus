@@ -20,6 +20,18 @@ Drive Focus is a project developing a Driver Attention Monitoring System (DAMS)
 
 # Project Features
 
+1. Real-time monitoring: The system continuously monitors the driver's behavior and alerts them when they show signs of drowsiness, fatigue, or distraction.
+
+2. Facial recognition: The system detects the driver's face and tracks their eye movement and facial expressions to assess their level of attentiveness.
+
+3. Audio alerts: The system alerts the driver through audio messages or warnings when they show signs of drowsiness or fatigue.
+
+4. Compatibility with existing technology: The system is compatible with existing in-car technology such as infotainment systems and navigation systems to provide a seamless user experience.
+
+5. Privacy and security: The system is designed to protect the driver's privacy and data security by minimizing data collection and ensuring secure storage and transmission of data.
+
+6. Customizability: The system is customizable to meet the needs of different drivers and vehicle types, with adjustable sensitivity levels and alert preferences.
+
 # Guide
 
 # Code Structure
