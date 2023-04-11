@@ -20,17 +20,17 @@ Drive Focus is a project developing a Driver Attention Monitoring System (DAMS)
 
 Hardware
 
-External Monitor, Keyboard and Mouse (Preferred)
-Windows or Linux Laptop
-RaspberryPi V3
-PIcamera Module 2
+1. External Monitor, Keyboard and Mouse (Preferred)
+2. Windows or Linux Laptop
+3. RaspberryPi V3
+4. PIcamera Module 2
 
 Software
 
-RaspberryPi OS (Legacy Version Preferred) 
-VNC(Make sure VNC is turned On) 
-OpenCV (4.1.0 or above) and necessary dependencies
-Geany 
+1. spberryPi OS (Legacy Version Preferred) 
+2. VNC(Make sure VNC is turned On) 
+3. OpenCV (4.1.0 or above) and necessary dependencies
+4. Geany 
 
 
 # Project Features
