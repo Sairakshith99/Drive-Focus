@@ -27,7 +27,7 @@ Hardware
 
 Software
 
-1. spberryPi OS (Legacy Version Preferred) 
+1. RaspberryPi OS (Legacy Version Preferred) 
 2. VNC(Make sure VNC is turned On) 
 3. OpenCV (4.1.0 or above) and necessary dependencies
 4. Geany 
