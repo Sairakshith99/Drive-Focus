@@ -62,6 +62,13 @@ Software
 3. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
 4. Enter the password of the RaspberryPi.
 5. Use VNC connect the borad, enter `raspberrypi.local` to connect.
+6. Copy the code you have download, drag the file into RaspberryPi.
+7. Open the command window in RaspberryPi, input  
+```c++
+cd /Drive-Focus-main/
+g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
+./main
+```
 
 # Code Structure
 
