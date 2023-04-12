@@ -52,11 +52,11 @@ Software
 
 # Guide
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
-2. Insert the SD card into the RaspberryPi borad.
-If you use the monitor:
-Link the RaspberryPi to the monitor, keyboard and mouse.
-If you use the laptop: 
-1) Use Windows Powershell to search the Ip address of your laptop.
+2. Insert the SD card into the RaspberryPi borad.  
+If you use the monitor:  
+Link the RaspberryPi to the monitor, keyboard and mouse.  
+If you use the laptop:   
+1) Use Windows Powershell to search the Ip address of your laptop.  
 `ssh pi@raspberrypi.local`
 
 # Code Structure
