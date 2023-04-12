@@ -92,3 +92,4 @@ g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 # References
 [Install Opencv on RaspberryPi](https://solarianprogrammer.com/2019/09/17/install-opencv-raspberry-pi-raspbian-cpp-python-development/)  
 [How to use README file](https://www.mygreatlearning.com/blog/readme-file/)
+[Install CMake on RaspberryPi](https://linuxhint.com/3-ways-install-cmake-raspberry-pi/)
