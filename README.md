@@ -81,7 +81,7 @@ cd /Drive-Focus-main/
 g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 ./main
 ```
-6. Then the interface acquired by the camera will appear and you can have the drive focus test.
+7. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
 # Code Structure
 
