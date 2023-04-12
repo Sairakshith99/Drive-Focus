@@ -3,6 +3,7 @@
 
 # Social Media
 
+![image](https://user-images.githubusercontent.com/116390489/231450723-ec75e4f0-c6bb-48cd-9b90-b8d90772d69b.png)
 [Click Here to Access our Social Media handles](https://linktr.ee/drive_focus)
 
 # Project Contributors
