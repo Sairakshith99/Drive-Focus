@@ -68,9 +68,10 @@ g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 ## Use laptop version
 1. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
 2. Enter the password of the RaspberryPi.
-3. Use VNC connect the borad, enter `raspberrypi.local` to connect.
-4. Copy the code you have download, drag the file into RaspberryPi.
-5. Open the command window in RaspberryPi, input  
+3. Enter `sudo raspi-config` to enable the VNC.
+4. Use VNC connect the borad, then enter `raspberrypi.local` to connect.
+5. Copy the code you have download, drag the file into RaspberryPi.
+6. Open the command window in RaspberryPi, input  
 ```c++
 cd /Drive-Focus-main/
 g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
