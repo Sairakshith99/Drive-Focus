@@ -85,3 +85,5 @@ g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 
 
 # References
+https://solarianprogrammer.com/2019/09/17/install-opencv-raspberry-pi-raspbian-cpp-python-development/
+https://www.mygreatlearning.com/blog/readme-file/
