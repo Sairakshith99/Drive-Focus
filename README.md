@@ -48,11 +48,21 @@ Software
 3. C++ API
 4. OpenCV (4.1.0 or above) and necessary dependencies
 5. Geany 
+6. Cmake
 
 # Guide
+1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
+2. Insert the SD card into the RaspberryPi borad.
+If you use the monitor:
+Link the RaspberryPi to the monitor, keyboard and mouse.
+If you use the laptop: 
+1) Use Windows Powershell to search the Ip address of your laptop.
+`ssh pi@raspberrypi.local`
 
 # Code Structure
 
+
 # Demo
+
 
 # References
