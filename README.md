@@ -51,24 +51,31 @@ Software
 6. Cmake
 
 # Guide
-## Use monitor version
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
 2. Insert the SD card into the RaspberryPi borad.
-3. Link the RaspberryPi to the monitor, keyboard and mouse.
 
-## Use laptop version
-1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card(remember the password you set).
-2. Insert the SD card into the RaspberryPi borad.
-3. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
-4. Enter the password of the RaspberryPi.
-5. Use VNC connect the borad, enter `raspberrypi.local` to connect.
-6. Copy the code you have download, drag the file into RaspberryPi.
-7. Open the command window in RaspberryPi, input  
+## Use monitor version
+1. Link the RaspberryPi to the monitor, keyboard and mouse.
+2. Open the command window in RaspberryPi, input
 ```c++
 cd /Drive-Focus-main/
 g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 ./main
 ```
+3. Then the interface acquired by the camera will appear and you can have the drive focus test.
+
+## Use laptop version
+1. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
+2. Enter the password of the RaspberryPi.
+3. Use VNC connect the borad, enter `raspberrypi.local` to connect.
+4. Copy the code you have download, drag the file into RaspberryPi.
+5. Open the command window in RaspberryPi, input  
+```c++
+cd /Drive-Focus-main/
+g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
+./main
+```
+6. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
 # Code Structure
 
