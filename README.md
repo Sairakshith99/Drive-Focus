@@ -48,7 +48,7 @@ Software
 3. C++ API
 4. OpenCV (4.1.0 or above) and necessary dependencies
 5. Geany 
-6. Cmake
+6. CMake
 
 # Guide
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
