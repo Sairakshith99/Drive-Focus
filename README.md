@@ -51,11 +51,17 @@ Software
 6. Cmake
 
 # Guide
+## Use monitor version
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
-2. Insert the SD card into the RaspberryPi borad.  
-If you use the monitor: Link the RaspberryPi to the monitor, keyboard and mouse.  
-If you use the laptop: Use Windows Powershell to search the Ip address of your laptop.  
-`ssh pi@raspberrypi.local`
+2. Insert the SD card into the RaspberryPi borad.
+3. Link the RaspberryPi to the monitor, keyboard and mouse.
+
+## Use laptop version
+1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card(remember the password you set).
+2. Insert the SD card into the RaspberryPi borad.
+3. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
+4. Enter the password of the RaspberryPi.
+5. Use VNC connect the borad, enter `raspberrypi.local` to connect.
 
 # Code Structure
 
