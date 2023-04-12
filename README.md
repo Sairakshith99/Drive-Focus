@@ -3,7 +3,7 @@
 
 # Social Media
 
-[Click Here to Access our Social Media handles](https://www.youtube.com/@TTeam25/about)
+[Click Here to Access our Social Media handles](https://linktr.ee/drive_focus)
 
 # Project Contributors
 
