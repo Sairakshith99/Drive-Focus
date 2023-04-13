@@ -61,9 +61,8 @@ sudo apt install cmake
 
 ## Use monitor version
 1. Link the RaspberryPi to the monitor, keyboard and mouse.
-2. Open the command window in RaspberryPi, input
+2. Open the command window in project directory and run:
 ```c++
-cd /Drive-Focus-main/
 g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 ./main
 ```
