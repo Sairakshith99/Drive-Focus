@@ -63,7 +63,7 @@ sudo apt install cmake
 1. Link the RaspberryPi to the monitor, keyboard and mouse.
 2. Open the command window in project directory and run:
 ```c++
-g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
+g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
 ./main
 ```
 3. Then the interface acquired by the camera will appear and you can have the drive focus test.
@@ -74,10 +74,9 @@ g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
 3. Enter `sudo raspi-config` to enable the VNC.
 4. Use VNC connect the borad, then enter `raspberrypi.local` to connect.
 5. Copy the code you have download, drag the file into RaspberryPi.
-6. Open the command window in RaspberryPi, input  
+6. Open the command window in project directory and run:
 ```c++
-cd /Drive-Focus-main/
-g++ Drive-Focus-main.cpp -o main `pkg-config --cflags --libs opencv`
+g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
 ./main
 ```
 7. Then the interface acquired by the camera will appear and you can have the drive focus test.
