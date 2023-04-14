@@ -16,7 +16,7 @@
 | Lina Chen |	2811816C |
 | Yulin Xiao | 2743901X |
 
-# ![image](https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png) ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png) [![Repo Size](https://badges.frapsoft.com/typescript/00/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+# ![image](https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png) ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png) 
 
 
 # Project Description 
