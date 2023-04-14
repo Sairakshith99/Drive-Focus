@@ -16,6 +16,9 @@
 | Lina Chen |	2811816C |
 | Yulin Xiao | 2743901X |
 
+# ![image](https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png) ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png)
+
+
 # Project Description 
 
 Drive Focus is a project developing a Driver Attention Monitoring System (DAMS) that uses face recognition software on a Raspberry Pi and a PiCamera. By examining facial traits including the driver's eyes and mouth, the system can determine whether or not they are aware. The prominent computer vision library OpenCV is used in C++ programming. The method has the ability to lower the amount of distracted driving-related accidents and raise driving safety. The system's design, implementation, testing, and development process are all thoroughly detailed.
