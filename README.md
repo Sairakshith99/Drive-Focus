@@ -74,7 +74,7 @@ g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs openc
 3. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
 ## Use laptop version
-1. Use LAN cable link laptop and RaspberryPi borad(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
+1. Use LAN cable link laptop and RaspberryPi board(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
 2. Enter the password of the RaspberryPi.
 3. Enter `sudo raspi-config` to enable the VNC.
 4. Use VNC connect the borad, then enter `raspberrypi.local` to connect.
