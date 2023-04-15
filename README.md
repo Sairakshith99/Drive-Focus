@@ -19,7 +19,7 @@
 | Sai Rakshith Arun Kumar	| 2820843A |	
 | Lina Chen |	2811816C |
 | Yulin Xiao | 2743901X |
-< If you have any suggestions for this project, please email to sairakshith99@gmil.com
+* < If you have any suggestions for this project, please email to sairakshith99@gmil.com
 
 <a href="https://github.com/Sairakshith99/Drive-Focus/pulls"><img src="https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png" alt="Link to Pull Requests"></a>
 ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png) 
