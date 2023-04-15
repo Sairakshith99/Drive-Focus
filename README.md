@@ -1,6 +1,10 @@
 # Drive Focus (Driver-Attention-Monitoring-System)
 ![nwmcjnsz](https://user-images.githubusercontent.com/116390489/231007502-d6b6c26d-46c9-4469-95f9-52c7d04dec26.png)
-# ![image](https://user-images.githubusercontent.com/116390489/232041553-a4d414c6-2861-4440-b1f3-e5361ab19e28.png) ![image](https://user-images.githubusercontent.com/116390489/232076273-c7b8169f-f780-407b-92d2-bbc4850c54df.png) ![image](https://user-images.githubusercontent.com/116390489/232041367-a342a2b3-5d5f-4c64-bb29-a9ec89c1a56c.png)
+
+<a href="link"><img src="https://user-images.githubusercontent.com/116390489/232041553-a4d414c6-2861-4440-b1f3-e5361ab19e28.png" alt="Link to Open Source"></a> 
+<a href="https://github.com/Sairakshith99/Drive-Focus/blob/main/LICENSE"><img src="https://user-images.githubusercontent.com/116390489/232076273-c7b8169f-f780-407b-92d2-bbc4850c54df.png" alt="Link to License"></a> 
+<a href="link"><img src="https://user-images.githubusercontent.com/116390489/232041367-a342a2b3-5d5f-4c64-bb29-a9ec89c1a56c.png" alt="Link to Contributors"></a>
+
 
 
 # Social Media
