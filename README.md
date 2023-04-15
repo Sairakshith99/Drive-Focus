@@ -44,7 +44,7 @@ Hardware
 1. External Monitor, Keyboard and Mouse (Preferred)
 2. Windows or Linux Laptop
 3. RaspberryPi V3
-4. PIcamera Module 2
+4. Picamera Module 2
 
 Software
 
