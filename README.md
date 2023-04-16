@@ -15,10 +15,11 @@
 
 | NAME | GUID |	ROLE |
 | ------------- | ------------- | ------------- |
-| Johanna Benedict |	2787431J	|
-| Sai Rakshith Arun Kumar	| 2820843A |	
-| Lina Chen |	2811816C |
-| Yulin Xiao | 2743901X |
+| Johanna Benedict |	2787431J	| Embedded Programming and Deployment |
+| Sai Rakshith Arun Kumar	| 2820843A | Hardware Engineering and Project Management |
+| Lina Chen |	2811816C | Bug Tracking and Documentation |
+| Yulin Xiao | 2743901X | Debugging and Testing |
+> Please send an email with any recommendations you may have for this project to sairakshith99@gmil.com.
 
 <a href="https://github.com/Sairakshith99/Drive-Focus/pulls"><img src="https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png" alt="Link to Pull Requests"></a>
 ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png) 
@@ -34,13 +35,9 @@ Drive Focus is a project developing a Driver Attention Monitoring System (DAMS)
 
 2. Facial recognition: The system detects the driver's face and tracks their facial expressions, specifically eye and mouth movements to assess their level of attentiveness.
 
-3. Audio alerts: The system alerts the driver by sounding a warning alarm when they show signs of drowsiness or fatigue.
+3. Sound alerts: The system alerts the driver by sounding a warning alarm when they show signs of drowsiness or fatigue.
 
-4. Compatibility with existing technology: The system is compatible with existing in-car technology such as infotainment systems and navigation systems to provide a seamless user experience.
-
-5. Privacy and security: The system is designed to protect the driver's privacy and data security by minimizing data collection and ensuring secure storage and transmission of data.
-
-6. Customizability: The system is customizable to meet the needs of different drivers and vehicle types, with adjustable sensitivity levels and alert preferences.
+4. Customizability: The system is customizable to meet the needs of different drivers and vehicle types, with adjustable sensitivity levels and alert preferences.
 
 # Requirements
 
