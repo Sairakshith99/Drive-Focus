@@ -45,8 +45,10 @@ Hardware
 
 1. External Monitor, Keyboard and Mouse (Preferred)
 2. Windows or Linux Laptop
-3. RaspberryPi V3
-4. Picamera Module 2
+3. RaspberryPi (version 3 or higher)
+4. Raspberry Pi Camera Module 2
+5. Buzzer
+6. Jumper wires
 
 Software
 
@@ -54,8 +56,9 @@ Software
 2. VNC(Make sure VNC is turned On) 
 3. C++ API
 4. OpenCV (4.1.0 or above) and necessary dependencies
-5. Geany 
-6. CMake
+5. WiringPi Library
+6. Geany Code Editor
+7. CMake
 
 # Guide
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
