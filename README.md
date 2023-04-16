@@ -63,7 +63,7 @@ Software
 # Guide
 1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
 2. Insert the SD card into the RaspberryPi borad.
-3. Install all packages that needed.(how to install opencv is shown in reference)  
+3. Install all packages that are needed (how to install opencv is shown in reference)  
 install cmake: 
 ```
 sudo apt install cmake
