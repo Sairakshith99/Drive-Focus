@@ -7,9 +7,9 @@
 </p>
 
 
-<a href="link"><img src="https://user-images.githubusercontent.com/116390489/232041553-a4d414c6-2861-4440-b1f3-e5361ab19e28.png" alt="Link to Open Source"></a> 
+<a href="https://github.com/Sairakshith99/Drive-Focus"><img src="https://user-images.githubusercontent.com/116390489/232041553-a4d414c6-2861-4440-b1f3-e5361ab19e28.png" alt="Link to Open Source"></a> 
 <a href="https://github.com/Sairakshith99/Drive-Focus/blob/main/LICENSE"><img src="https://user-images.githubusercontent.com/116390489/232076273-c7b8169f-f780-407b-92d2-bbc4850c54df.png" alt="Link to License"></a> 
-<a href="link"><img src="https://user-images.githubusercontent.com/116390489/232041367-a342a2b3-5d5f-4c64-bb29-a9ec89c1a56c.png" alt="Link to Contributors"></a>
+<a href="https://github.com/Sairakshith99/Drive-Focus/graphs/contributors"><img src="https://user-images.githubusercontent.com/116390489/232041367-a342a2b3-5d5f-4c64-bb29-a9ec89c1a56c.png" alt="Link to Contributors"></a>
 
 
 
