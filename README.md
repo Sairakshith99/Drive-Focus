@@ -67,7 +67,6 @@ Software
 4. OpenCV (4.1.0 or above) and necessary dependencies
 5. WiringPi Library
 6. Geany Code Editor
-7. CMake
 
 # Guide
 To run the source code:
