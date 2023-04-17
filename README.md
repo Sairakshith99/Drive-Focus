@@ -65,9 +65,9 @@ Software
 
 # Guide
 To run the source code:
+```c++
 git clone https://github.com/Sairakshith99/Drive-Focus.git
 cd Drive-Focus/src
-```c++
 g++ main.cpp /home/pi/path_to_project/Drowsiness.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
 ./main
 ```
