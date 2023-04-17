@@ -30,6 +30,9 @@
 <a href="https://github.com/Sairakshith99/Drive-Focus/pulls"><img src="https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png" alt="Link to Pull Requests"></a>
 ![image](https://user-images.githubusercontent.com/116390489/232042154-f0cbc836-1552-465f-a4a9-d5419c8bc841.png) 
 
+# Demo
+
+
 
 # Project Description 
 
@@ -106,8 +109,6 @@ This system calculates the Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) o
 When the program detects drowsiness (sleepy - eyes closed for long or yawning), it will activate a buzzer to alert the user. The buzzer is controlled by a separate thread that is activated when drowsiness or yawning is detected.
 
 For more details refer to <a href="https://github.com/Sairakshith99/Drive-Focus/wiki"> wiki </a>
-
-# Demo
 
 
 # References
