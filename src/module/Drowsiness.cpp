@@ -135,8 +135,8 @@ void DrowsinessDetector::checkDrowsiness(Mat &frame, double leftEyeAspectRatio, 
     double EAR = (leftEyeAspectRatio + rightEyeAspectRatio)/2;
     // Print the calculated eye aspect ratio to the console for debugging purposes
         cout << "EYE-ratio " << EAR << endl;
-    // Check if the eye aspect ratio is greater than the threshold
-    if(EAR>0.36)
+    // Check if the eye aspect ratio is lower than the threshold
+    if(EAR<0.36)
     {
         eye_counter++; // Increment the eye counter
         
