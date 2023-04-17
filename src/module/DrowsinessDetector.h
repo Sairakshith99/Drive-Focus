@@ -21,6 +21,7 @@ private:
     void detect(Mat &frame);
     void checkDrowsiness(Mat &frame, double leftEyeAspectRatio, double rightEyeAspectRatio);
     double getEyeAspectRatio(vector<Point2f> eyeLandmarks);
+    void myThreadFunc(int thread);
 };
 
 #endif
