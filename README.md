@@ -1,6 +1,4 @@
-<br />
-<h1 align="center">Drive Focus (Driver-Attention-Monitoring-System)</h1>
-</br>
+# Drive Focus (Driver-Attention-Monitoring-System)
 
 ![image](https://user-images.githubusercontent.com/116390489/232624670-f5f2ffe1-5abc-4fad-802e-74d664959aa6.png)
 
