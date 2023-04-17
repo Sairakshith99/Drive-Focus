@@ -16,12 +16,12 @@
 
 # Project Contributors
 
-| NAME | GUID |	ROLE |
-| ------------- | ------------- | ------------- |
-| Johanna Benedict |	2787431J	| Embedded Programming and Deployment |
-| Sai Rakshith Arun Kumar	| 2820843A | Hardware Engineering and Project Management |
-| Lina Chen |	2811816C | Bug Tracking and Documentation |
-| Yulin Xiao | 2743901X | Debugging and Testing |
+| NAME | GUID | GIT ID |	ROLE |
+| ------------- | ------------- | ------------- | ------------- |
+| Johanna Benedict |	2787431J	|  @johannab2507 | Embedded Programming and Deployment |
+| Sai Rakshith Arun Kumar	| 2820843A | @sairakshith99 | Hardware Engineering and Project Management |
+| Lina Chen |	2811816C | @aenlina | Bug Tracking and Documentation |
+| Yulin Xiao | 2743901X | @xyllin995 | Debugging and Testing |
 > Please send an email with any recommendations you may have for this project to sairakshith99@gmil.com.
 
 <a href="https://github.com/Sairakshith99/Drive-Focus/pulls"><img src="https://user-images.githubusercontent.com/116390489/232042061-3ada3e1a-4fd1-4690-8efe-a2310ccd0dc2.png" alt="Link to Pull Requests"></a>
