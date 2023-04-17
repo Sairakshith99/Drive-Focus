@@ -94,8 +94,15 @@ g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs openc
 ```
 7. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
-# Code Structure
+# Code Explanation
 
+This system is a C++ program that implements a drowsiness detection system using facial landmarks. It uses Haar Cascade classifier to detect faces in the video stream, and a facial landmark detector to identify the eyes and mouth in the face.
+
+This system calculates the Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) of the detected face to determine whether the user is drowsy or yawning. The EAR is calculated by measuring the ratio of the distance between the horizontal eye landmarks and the vertical eye landmarks. A threshold value is set for the EAR, and if the EAR falls below this value, the program will assume that the user is drowsy. Similarly, the MAR is calculated by measuring the ratio of the distance between the upper and lower lip to the width of the mouth. A threshold value is set for the MAR, and if the MAR is greater than this value, the program will assume that the user is yawning.
+
+When the program detects drowsiness (sleepy - eyes closed for long or yawning), it will activate a buzzer to alert the user. The buzzer is controlled by a separate thread that is activated when drowsiness or yawning is detected.
+
+For more details refer to <a href="https://github.com/Sairakshith99/Drive-Focus/wiki"> wiki </a>
 
 # Demo
 
