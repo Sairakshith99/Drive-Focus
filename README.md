@@ -64,12 +64,12 @@ Software
 7. CMake
 
 # Guide
-1. Download RaspberryPi OS on a Windows or Linux laptop, burn the RaspberryPi Imager to SD card.
-2. Insert the SD card into the RaspberryPi borad.
-3. Install all packages that are needed (how to install opencv is shown in reference)  
-install cmake: 
-```
-sudo apt install cmake
+To run the source code:
+git clone https://github.com/Sairakshith99/Drive-Focus.git
+cd Drive-Focus/src
+```c++
+g++ main.cpp /home/pi/path_to_project/Drowsiness.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
+./main
 ```
 
 ## Use monitor version
