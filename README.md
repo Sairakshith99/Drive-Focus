@@ -2,7 +2,10 @@
 <h1 align="center">Drive Focus (Driver-Attention-Monitoring-System)</h1>
 </br>
 
-![nwmcjnsz](https://user-images.githubusercontent.com/116390489/231007502-d6b6c26d-46c9-4469-95f9-52c7d04dec26.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116390489/231007502-d6b6c26d-46c9-4469-95f9-52c7d04dec26.png" alt="Example image" style="display: block; margin: 0 auto;">
+</p>
+
 
 <a href="link"><img src="https://user-images.githubusercontent.com/116390489/232041553-a4d414c6-2861-4440-b1f3-e5361ab19e28.png" alt="Link to Open Source"></a> 
 <a href="https://github.com/Sairakshith99/Drive-Focus/blob/main/LICENSE"><img src="https://user-images.githubusercontent.com/116390489/232076273-c7b8169f-f780-407b-92d2-bbc4850c54df.png" alt="Link to License"></a> 
