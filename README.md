@@ -80,11 +80,7 @@ g++ main.cpp /home/pi/path_to_project/Drowsiness.cpp -o main -lwiringPi `pkg-con
 
 ## Use monitor version
 1. Link the RaspberryPi to the monitor, keyboard and mouse.
-2. Open the command window in project directory and run:
-```c++
-g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
-./main
-```
+2. Run the code.
 3. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
 ## Use laptop version
@@ -93,11 +89,7 @@ g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs openc
 3. Enter `sudo raspi-config` to enable the VNC.
 4. Use VNC connect the borad, then enter `raspberrypi.local` to connect.
 5. Copy the code you have download, drag the file into RaspberryPi.
-6. Open the command window in project directory and run:
-```c++
-g++ Drowsiness.cpp main.cpp -o main -lwiringPi `pkg-config --cflags --libs opencv`
-./main
-```
+6. Run the code.
 7. Then the interface acquired by the camera will appear and you can have the drive focus test.
 
 # Code Explanation
