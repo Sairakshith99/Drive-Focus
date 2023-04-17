@@ -9,8 +9,8 @@
 // It may also contain authorship and version information.
 // ----------------------------------------------------------------------------------------
 // Main program for the Drowsiness Detector
-// Author: [Insert author name here]
-// Version: [Insert version number here]
+// Authors: [Johanna, Sairakshith, Lina, Yulin]
+// Version: [V1.0]
 // Description: This program uses a camera to monitor a person's eyes and detect signs of drowsiness
 // ----------------------------------------------------------------------------------------
 
@@ -116,7 +116,8 @@ void DrowsinessDetector::detect(Mat &frame) {
         {
             myThreadFunc(1);// Enable the thread 
             std::this_thread::sleep_for(timer_duration);
-            
+            //Display to terminal
+            cout << "Yawn Detected " << endl;
             // Display "Yawn detected!" on the frame
             putText(frame, "Yawn detected!", Point(10, 30),
                 FONT_HERSHEY_SIMPLEX, 0.7, Scalar(0, 0, 255), 2);
@@ -144,6 +145,8 @@ void DrowsinessDetector::checkDrowsiness(Mat &frame, double leftEyeAspectRatio, 
         {
             myThreadFunc(1); // Enable the thread 
             std::this_thread::sleep_for(timer_duration); // Wait for one second
+            //Display to terminal
+            cout << "Eyes closed for more than 3 seconds " << endl;
             putText(frame, "DROWSY", Point(10, 50), FONT_HERSHEY_SIMPLEX, 1, Scalar(0, 0, 255), 2); // Display the warning on the frame
         }
     }
@@ -170,7 +173,9 @@ void DrowsinessDetector::myThreadFunc(int thread) {
     
     if(thread==1)
         digitalWrite(27, HIGH); // Turn BUZZER on
+        std::this_thread::sleep_for(timer_duration);
+        digitalWrite(27, LOW);
     if(thread==2)
-        digitalWrite(27, LOW); // Turn BUZZER on
+        digitalWrite(27, LOW); // Turn BUZZER off
 }
 
