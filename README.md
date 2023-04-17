@@ -78,20 +78,6 @@ g++ main.cpp /home/pi/path_to_project/Drowsiness.cpp -o main -lwiringPi `pkg-con
 ./main
 ```
 
-## Use monitor version
-1. Link the RaspberryPi to the monitor, keyboard and mouse.
-2. Run the code.
-3. Then the interface acquired by the camera will appear and you can have the drive focus test.
-
-## Use laptop version
-1. Use LAN cable link laptop and RaspberryPi board(if your laptop doesn't have the LAN cable interface please ensure the laptop and the RaspberryPi in the same LAN). `ssh pi@raspberrypi.local` to find the IP address of RaspberryPi.
-2. Enter the password of the RaspberryPi.
-3. Enter `sudo raspi-config` to enable the VNC.
-4. Use VNC connect the borad, then enter `raspberrypi.local` to connect.
-5. Copy the code you have download, drag the file into RaspberryPi.
-6. Run the code.
-7. Then the interface acquired by the camera will appear and you can have the drive focus test.
-
 # Code Explanation
 
 This system is a C++ program that implements a drowsiness detection system using facial landmarks. It uses Haar Cascade classifier to detect faces in the video stream, and a facial landmark detector to identify the eyes and mouth in the face.
